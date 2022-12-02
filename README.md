@@ -4,4 +4,4 @@ first version about application
 TO DO:
 1. change js
 2. add events
-3. add new css
+3. more css+animations
